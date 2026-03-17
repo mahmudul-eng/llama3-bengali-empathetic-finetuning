@@ -1,0 +1,2 @@
+id,model_name,lora_config,train_loss,val_loss,perplexity,bleu,rouge,timestamp
+1,LLaMA-3.1-8B-Instruct,r=16 alpha=32 dropout=0.05,0.3855,0.9417593474744497,2.5644892794565255,6.41193285632829e-232,"{'rouge1': np.float64(0.0), 'rouge2': np.float64(0.0), 'rougeL': np.float64(0.0), 'rougeLsum': np.float64(0.0)}",2026-03-17 15:05:31.398600
